@@ -1,5 +1,6 @@
-# Log4J_0day_RCE
-Log4j-RCE (CVE-2021-44228) Proof of Concept
+### Join Community
+
+[Telegram](https://t.me/vPwnd)
 
 # CVE-2021-44228(Apache Log4j Remote Code Execution）
 
@@ -60,10 +61,6 @@ If you want to do black-box testing， I suggest you do passive scanning.
 Have Fun!!!
 ![BurpLog4jScan.png](https://github.com/tangxiaofeng7/BurpLog4j2Scan/blob/master/img/result.png)
 
-
-### Join Community
-
-[Telegram](https://t.me/vPwnd)
 
 ### Stargazers over time
 [![Stargazers over time](https://starchart.cc/tangxiaofeng7/apache-log4j-poc.svg)](https://starchart.cc/tangxiaofeng7/apache-log4j-poc)
